@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # list ports
-netsat --listening --program
+sudo netstat -tunlp
